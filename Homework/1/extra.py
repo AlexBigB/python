@@ -1,4 +1,7 @@
-# Функция создает массив с сзаданными параметрами
+# Задача еще не решена...
+
+
+# Функция создает массив с с заданными параметрами
 def сreate_arr(num_len, ones_amount):
     n = list(range(num_len))
     for j in range(ones_amount):
